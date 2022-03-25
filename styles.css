@@ -1,0 +1,77 @@
+a:hover{
+color:lightblue;
+}
+a{
+    color: white;
+text-decoration: none;
+}
+head{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.section_1 h3{
+    font-weight: lighter;
+}
+.S2{
+    display: inline-block;
+}
+.nav{
+    display: inline-block;
+}
+header{
+    background-color:saddlebrown ;
+}
+header #a1nav{
+    margin-left: 950px;
+    margin-right: 4px;
+}
+header form{
+    margin-top: 8px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    color: white;
+}
+.S1{
+    display: inline-block;
+}
+#presentation img{
+    margin-left: 600px;
+    margin-top: 20px;
+    width: 390px;
+    border-radius: 50px;
+}
+#presentation div{
+margin-left: 80px;
+margin-bottom: 30px;
+}
+#presentation{
+    background-color: blanchedalmond;
+}
+#work div{
+    margin-left: 40px;
+    margin-right: 20px;
+    text-align : center;
+}
+#work div ul{
+    list-style-type: none;
+}
+.last{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:white ;
+}
+#form form #left{
+    margin-left: 380px;
+}
+#form{
+    background-color:saddlebrown ;
+   
+}
+footer {
+    text-align: center;
+    background-color: blanchedalmond;
+}
